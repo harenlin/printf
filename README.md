@@ -1,5 +1,5 @@
 # printf
-Reference Codes - printf: Preference Modeling Based on User Reviews with Item Images and Textual Information via Graph Learning
+Reference Codes - [printf: Preference Modeling Based on User Reviews with Item Images and Textual Information via Graph Learning](https://dl.acm.org/doi/10.1145/3583780.3615012)
 
 
 ### 0. Create a virtual environment & Set up dependencies
